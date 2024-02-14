@@ -1,0 +1,19 @@
+{
+  "name": "my_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prav1512/MyBackend.git"
+  },
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prav1512/MyBackend/issues"
+  },
+  "homepage": "https://github.com/prav1512/MyBackend#readme"
+}
